@@ -1,0 +1,7 @@
+.vscode/
+log.txt
+Makefile
+RawSocketSniffer
+*.cmake
+*CMakeCache.txt
+CMakeFiles/
